@@ -50,6 +50,7 @@ nav {
 }
 
 .menu {
+    margin-right: -10rem;
     font-size: 1.25rem;
     height: 0;
     overflow: hidden;
@@ -86,6 +87,7 @@ nav {
 }
 
 .logo{
+    margin-left: 5rem;
     height : 5rem;
 }
 
